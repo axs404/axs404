@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Arduino
 - 🌱 I’m currently learning C++
 - 💬 Ask me about Python
-- 📫 How to reach me: Through Discord - axs007
+- 📫 How to reach me: Through Discord - axs404
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I create websites for fun
 <!--
